@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Minimal Mistakes"
+title                    : "Bioinformatic Analysis of Influenza Hemagglutinin Surface Protein Across the 20th Century"
 title_separator          : "-"
-name                     : &name "Michael Rose"
-description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
+name                     : &name "Nikkia Zarabian"
+description              : &description "We will be analyzing the nucleotide and amino acid sequences of surface protein hemagglutinin for major epidemics of influenza in the past century; this data will be obtained utilizing GenBank. This project aims to study critical mutations in the active sites of hemagglutinin to understand how influenza has evolved in the past century."
 url                      : https://mmistakes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/minimal-mistakes" # the subpath of your site, e.g. "/blog"
 repository               : "mmistakes/minimal-mistakes"
@@ -83,7 +83,7 @@ author:
   avatar           : "michael-rose.jpg"
   bio              : "Just another boring, tattooed, time traveling, designer."
   location         : "Buffalo, NY"
-  email            :
+  email            : "nzarabian@gwu.edu"
   uri              : "https://mademistakes.com"
   bitbucket        :
   codepen          :
